@@ -1,3 +1,12 @@
+----------------------x-----------------------
+
+<!--<====Website infooo...====>
+1. Website Name - Code Camp.
+2. Responsiveness -yes.
+
+
+----------------------x-----------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

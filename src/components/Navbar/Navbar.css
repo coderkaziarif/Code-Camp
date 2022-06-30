@@ -1,0 +1,27 @@
+.link_item {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.link {
+   font-size: 1.5rem;
+   text-decoration: none;
+   color:#fff;
+}
+
+/* .active_className::after{
+   content: "";
+   position: absolute;
+   display: block;
+   height: 0.2rem;
+   width: 0;
+   bottom: 0.9rem;
+   background-color: blue;
+   transition: all ease-in-out 0.7s;
+} */
+.link:hover{
+   border-bottom:3px solid #F50032;;
+   color:#F50032;
+      
+};
